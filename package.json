@@ -1,0 +1,26 @@
+{
+  "name": "socket-getstarted",
+  "version": "1.0.0",
+  "description": "my first socket.io app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukherjeepratimgithub/Socket-getStarted.git"
+  },
+  "keywords": [
+    "socket"
+  ],
+  "author": "Pratim Mukherjee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mukherjeepratimgithub/Socket-getStarted/issues"
+  },
+  "homepage": "https://github.com/mukherjeepratimgithub/Socket-getStarted#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.1"
+  }
+}
