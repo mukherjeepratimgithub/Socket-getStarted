@@ -1,9 +1,10 @@
 {
-  "name": "socket-getstarted",
+  "name": "socket-chat",
   "version": "1.0.0",
-  "description": "my first socket.io app",
+  "description": "my first socket.io chat app",
   "main": "index.js",
   "scripts": {
+    "start":"node index.js",
     "test": "test.jest.js"
   },
   "repository": {
