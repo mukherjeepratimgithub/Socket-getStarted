@@ -1,3 +1,0 @@
-# Ignore nodemodule for heroku
-node_modules/
-
