@@ -1,1 +1,1 @@
-<?php include_once ("index.js")?>
+<?php include_once ("main.js")?>
